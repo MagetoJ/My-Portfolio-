@@ -11,22 +11,29 @@ const Resume: React.FC = () => {
       description: "Led development of scalable web applications using React, Django, and PostgreSQL. Managed a team of 4 developers and improved system performance by 40%."
     },
     {
-      title: "Full-Stack Developer",
-      company: "StartupXYZ",
-      location: "Austin, TX",
-      period: "2020 - 2022",
-      description: "Built modern web applications with Next.js and Django REST framework. Implemented CI/CD pipelines and reduced deployment time by 60%."
+      title: "IT Intern/Attachee",
+      company: "Chacleat Constructions",
+      location: "Nairobi, Kenya",
+      period: "May - August 2024",
+      description: "Gained hands-on experience in IT infrastructure management and software development. Assisted in maintaining computer systems and developing internal tools for project management."
     },
     {
-      title: "Frontend Developer",
-      company: "WebStudio Inc",
-      location: "Seattle, WA",
-      period: "2019 - 2020",
-      description: "Developed responsive user interfaces using React and Vue.js. Collaborated with designers to create pixel-perfect implementations."
+      title: "Data Analytics Intern",
+      company: "Spark Analytics",
+      location: "Nairobi, Kenya",
+      period: "January - March 2025",
+      description: "Working with data visualization tools and analytics platforms to create insights from business data. Developing skills in data processing and statistical analysis."
     }
   ];
 
   const education = [
+    {
+      degree: "Bachelor's in Software Engineering (Year 3)",
+      school: "Zetech University",
+      location: "Nairobi, Kenya",
+      period: "2024 - December 2026",
+      honors: "Currently Enrolled - Expected Graduation December 2026"
+    },
     {
       degree: "Diploma in Business Information Technology",
       school: "Zetech University",
