@@ -64,5 +64,5 @@ export const socialLinks: SocialLink[] = [
   { name: "GitHub", url: "https://github.com/MagetoJ", icon: "Github" },
   { name: "LinkedIn", url: "https://www.linkedin.com/in/jabez-mochiemo-5ab313366", icon: "Linkedin" },
   { name: "Twitter", url: "https://x.com/kaptain_kiddo", icon: "Twitter" },
-  { name: "Email", url: "mailto:jabezmageto78@gmail.com", icon: "Mail" }
+  { name: "Email", url: "mailto:jmageto@statbricks.com", icon: "Mail" }
 ];

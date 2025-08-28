@@ -1,5 +1,9 @@
 # Jabez Mageto - Portfolio Website 🚀
 
+[![Build and Deploy](https://github.com/MagetoJ/My-Portfolio-/actions/workflows/deploy.yml/badge.svg)](https://github.com/MagetoJ/My-Portfolio-/actions/workflows/deploy.yml)
+[![Vercel Status](https://img.shields.io/badge/vercel-ready-brightgreen.svg)](https://vercel.com)
+[![Netlify Status](https://img.shields.io/badge/netlify-ready-00c7b7.svg)](https://netlify.com)
+
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS, showcasing the work and skills of Jabez Mageto, a Full-Stack Software Engineer.
 
 ![Portfolio Preview](https://via.placeholder.com/800x400/2563eb/ffffff?text=Jabez+Mageto+Portfolio)
@@ -87,7 +91,7 @@ src/
 This project is configured for easy deployment on multiple platforms:
 
 ### Vercel (Recommended)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/yourrepo)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MagetoJ/My-Portfolio-)
 
 1. Connect your GitHub repository to Vercel
 2. Vercel will automatically detect the framework and deploy
@@ -155,11 +159,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📬 Contact
 
 **Jabez Mageto**
-- Email: jabezmageto78@gmail.com
+- Email: jmageto@statbricks.com
 - Phone: +254 768 396296  
 - Location: Nairobi, Kenya
-- LinkedIn: [Your LinkedIn](https://linkedin.com)
-- GitHub: [Your GitHub](https://github.com)
+- LinkedIn: [Jabez Mochiemo](https://www.linkedin.com/in/jabez-mochiemo-5ab313366)
+- GitHub: [MagetoJ](https://github.com/MagetoJ)
+- Twitter: [@kaptain_kiddo](https://x.com/kaptain_kiddo)
 
 ## 🙏 Acknowledgments
 

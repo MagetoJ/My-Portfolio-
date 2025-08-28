@@ -6,10 +6,6 @@ const Projects: React.FC = () => {
   const [filter, setFilter] = useState<string>('all');
   const [visibleProjects, setVisibleProjects] = useState(6);
 
-  const allTechnologies = Array.from(
-    new Set(projects.flatMap(project => project.technologies))
-  );
-
   const filteredProjects = filter === 'all' 
     ? projects 
     : projects.filter(project => 
