@@ -59,6 +59,8 @@ const Skills: React.FC = () => {
                               ? 'bg-emerald-100 dark:bg-emerald-900/30 text-emerald-800 dark:text-emerald-300'
                               : skill.level === 'Proficient'
                               ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-300'
+                              : skill.level === 'Learning'
+                              ? 'bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-300'
                               : 'bg-amber-100 dark:bg-amber-900/30 text-amber-800 dark:text-amber-300'
                           }`}>
                             {skill.level}
@@ -104,8 +106,8 @@ const Skills: React.FC = () => {
                 Certifications
               </h4>
               <ul className="space-y-2 text-gray-700 dark:text-gray-300">
-              
-                <li>• Cisco Certification in Cybersecurity</li>
+                <li>• Cisco Certification in Cybersecurity (2023)</li>
+                <li>• Diploma in Business Information Technology</li>
               </ul>
             </div>
           </div>

@@ -11,7 +11,7 @@ export interface Project {
 
 export interface Skill {
   name: string;
-  level: 'Beginner' | 'Proficient' | 'Expert';
+  level: 'Beginner' | 'Learning' | 'Proficient' | 'Expert';
   icon: string;
   category: 'Frontend' | 'Backend' | 'Tools' | 'Other';
 }

@@ -47,6 +47,8 @@ export const skills: Skill[] = [
   { name: "Vue.js", level: "Proficient", icon: "Triangle", category: "Frontend" },
   { name: "Tailwind CSS", level: "Expert", icon: "Palette", category: "Frontend" },
   { name: "HTML5/CSS3", level: "Expert", icon: "Layout", category: "Frontend" },
+  { name: "WordPress", level: "Expert", icon: "Globe", category: "Frontend" },
+  { name: "Framer", level: "Learning", icon: "Layout", category: "Frontend" },
   
   { name: "Django", level: "Expert", icon: "Server", category: "Backend" },
   { name: "Python", level: "Expert", icon: "Code", category: "Backend" },

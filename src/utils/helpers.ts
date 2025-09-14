@@ -16,6 +16,8 @@ export const getSkillColor = (level: string): string => {
       return 'bg-emerald-500';
     case 'Proficient':
       return 'bg-blue-500';
+    case 'Learning':
+      return 'bg-purple-500';
     case 'Beginner':
       return 'bg-amber-500';
     default:
@@ -29,6 +31,8 @@ export const getSkillWidth = (level: string): string => {
       return 'w-full';
     case 'Proficient':
       return 'w-4/5';
+    case 'Learning':
+      return 'w-1/2';
     case 'Beginner':
       return 'w-3/5';
     default:

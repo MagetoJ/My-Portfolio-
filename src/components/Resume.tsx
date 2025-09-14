@@ -4,11 +4,11 @@ import { Download, Eye, Calendar, MapPin, Award, Briefcase, GraduationCap } from
 const Resume: React.FC = () => {
   const experiences = [
     {
-      title: " Full-Stack Software Developer",
+      title: "Full-Stack Software Developer",
       company: "StatBricks",
       location: "Nairobi, Kenya",
-      period: "2023 - Present",
-      description: "Led development of scalable web applications using React, Django, and PostgreSQL. Managed a team of 4 developers and improved system performance by 40%."
+      period: "2024 August - Present",
+      description: "Led development of scalable web applications using React, Django, and PostgreSQL."
     },
     {
       title: "IT Intern/Attachee",
@@ -21,7 +21,7 @@ const Resume: React.FC = () => {
       title: "Data Analytics Intern",
       company: "Spark Analytics",
       location: "Nairobi, Kenya",
-      period: "January - March 2025",
+      period: "January - March 2024",
       description: "Working with data visualization tools and analytics platforms to create insights from business data. Developing skills in data processing and statistical analysis."
     }
   ];
@@ -44,8 +44,8 @@ const Resume: React.FC = () => {
   ];
 
   const certifications = [
-   
-    "Cisco Certification in Cybersecurity (2021)"
+    "Cisco Certification in Cybersecurity (2023)",
+    "Diploma in Business Information Technology"
   ];
 
   return (
